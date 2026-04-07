@@ -1,0 +1,5 @@
+PLACE mysql-connector-java.jar HERE
+=====================================
+Download from: https://dev.mysql.com/downloads/connector/j/
+Select: Platform Independent -> ZIP Archive
+Extract -> copy the .jar -> rename to: mysql-connector-java.jar
