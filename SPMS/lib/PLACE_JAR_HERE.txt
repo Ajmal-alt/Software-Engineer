@@ -1,0 +1,14 @@
+PLACE THE MYSQL CONNECTOR JAR HERE
+====================================
+
+Download MySQL Connector/J from:
+  https://dev.mysql.com/downloads/connector/j/
+
+Steps:
+  1. Select "Platform Independent"
+  2. Download the .zip or .tar.gz
+  3. Extract and copy the .jar file into THIS folder (lib/)
+  4. Rename the jar to exactly:  mysql-connector-java.jar
+
+The compile and run scripts expect the file at:
+  lib/mysql-connector-java.jar
